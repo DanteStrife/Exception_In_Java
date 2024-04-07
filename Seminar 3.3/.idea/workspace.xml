@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a58073d-75e9-4b8f-9701-484920a22900" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 1/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 1/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 2/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 3/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 Auto 3/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 DZ 7/DZ_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1 DZ 8/DZ_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1.1/Seminar_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1.2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1.2/Seminar_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 1/Seminar_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 1/Auto_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 1/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 2/Auto_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 3/Auto_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 3/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 4/Auto_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2 Auto 4/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2.1/Seminar_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2.2/Seninar_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2.3/Seminar_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 2/Seminar_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 3.1/Seminar_3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 3.2/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 3.2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar 3/Seminar_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/+Seminar 4.1/.idea/+Seminar 4.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/.idea/Seminar 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/CalculateSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 6/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ V 2.0/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ V 2.0/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7 DZ/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/DocumentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/MargheritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/MessageDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/OldDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 7/VegetarianPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/service/DataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/service/DataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/view/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/view/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/view/TeacherView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Объектно-ориентированное программирование/OOP/Seminar 5 MVP/view/TeacherView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2edFAVNWlz3sBTZLR3KDPExzjJI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a58073d-75e9-4b8f-9701-484920a22900" name="Changes" comment="" />
+      <created>1712226404828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712226404828</updated>
+    </task>
+    <servers />
+  </component>
+</project>

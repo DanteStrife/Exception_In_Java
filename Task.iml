@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Certification working with exceptions Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1 Auto 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1 Auto 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1 Auto 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1 DZ 7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1 DZ 8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 1.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2 Auto 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2 Auto 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2 Auto 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2 Auto 4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 2.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 3.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 3.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 3.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar 3.4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ыав" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
